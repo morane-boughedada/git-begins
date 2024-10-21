@@ -2,4 +2,6 @@ git clone <url du repository>
 git add .
 git commit -m "message du commit"
 git push
+git branch add-create-branch-command
+git switch add-create-branch-command
 
