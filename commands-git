@@ -1,0 +1,5 @@
+git clone <url du repository>
+git add .
+git commit -m "message du commit"
+git push
+
